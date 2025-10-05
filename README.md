@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citIMAMURAx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
 
 <!--
 **citIMAMURA/citIMAMURA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
